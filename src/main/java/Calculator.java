@@ -1,4 +1,4 @@
-git
+
 public class Calculator {
 
   static int sum(int first, int second) {
