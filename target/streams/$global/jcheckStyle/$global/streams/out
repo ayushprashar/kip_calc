@@ -1,15 +1,7 @@
 [0m[[0m[0minfo[0m] [0m[0mRunning checkstyle: src/main/java[0m
 [0m[[0m[0minfo[0m] [0m[0mUsing checkstyle configuration: google[0m
 [0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/ConnectionFactory.java[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/ConnectionFactory.java:21: First sentence of Javadoc is missing an ending period.[0m
 [0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/Calculator.java[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:13: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 15.[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:21: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 23.[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:31: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 33.[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:48: 'if' construct must use '{}'s.[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:50: 'else' construct must use '{}'s.[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:68: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 70.[0m
-[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:74: Block comment has incorrect indentation level 3, expected is 2, indentation should be the same level as line 70.[0m
 [0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/DbManagement.java[0m
 [0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:2: Using the '.*' form of import should be avoided - java.sql.*.[0m
 [0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:5: Abbreviation in name 'addToDB' must contain no more than '2' consecutive capital letters.[0m

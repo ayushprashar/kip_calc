@@ -17,12 +17,14 @@ public class ConnectionFactory {
       Class.forName(JDBC_DRIVER);
 
     } catch (ClassNotFoundException e) {
-      // TODO Auto-generated catch block
+
       e.printStackTrace();
     }
   }
 
-  /**accessing db*/
+  /**
+   * accessing db.
+   */
   public static Connection getconnection() {
     Connection cnn = null;
 
