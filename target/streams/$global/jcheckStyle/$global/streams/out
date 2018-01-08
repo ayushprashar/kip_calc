@@ -1,0 +1,34 @@
+[0m[[0m[0minfo[0m] [0m[0mRunning checkstyle: src/main/java[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing checkstyle configuration: google[0m
+[0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/ConnectionFactory.java[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/ConnectionFactory.java:21: First sentence of Javadoc is missing an ending period.[0m
+[0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/Calculator.java[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:13: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 15.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:21: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 23.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:31: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 33.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:48: 'if' construct must use '{}'s.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:50: 'else' construct must use '{}'s.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:68: Comment has incorrect indentation level 0, expected is 2, indentation should be the same level as line 70.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/Calculator.java:74: Block comment has incorrect indentation level 3, expected is 2, indentation should be the same level as line 70.[0m
+[0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/DbManagement.java[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:2: Using the '.*' form of import should be avoided - java.sql.*.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:5: Abbreviation in name 'addToDB' must contain no more than '2' consecutive capital letters.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:5: Missing a Javadoc comment.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:19: 'else' construct must use '{}'s.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:29: Abbreviation in name 'checkByID' must contain no more than '2' consecutive capital letters.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:29: Missing a Javadoc comment.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:45: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:55: Missing a Javadoc comment.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/DbManagement.java:69: '+' should be on a new line.[0m
+[0m[[0m[0mdebug[0m] [0m[0mchecking src/main/java/MainApp.java[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:4: Missing a Javadoc comment.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:4: Array brackets at illegal position.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:8: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:9: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:10: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:20: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:21: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:128: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:145: '+' should be on a new line.[0m
+[0m[[0m[33mwarn[0m] [0m[0msrc/main/java/MainApp.java:146: '+' should be on a new line.[0m
+[0m[[0m[0minfo[0m] [0m[0mcheckstyle has succeeded[0m
